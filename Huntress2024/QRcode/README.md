@@ -53,4 +53,4 @@ zbarimg --raw extracted.png
 
 - This produced the output: `flag{01c6e24c48f48856ee3adcca00f86e9b}`, which was the flag for the challenge.
 
-![FinalQRcode](../Images/finalQRcode)
+![FinalQRcode](../Images/finalqr.png)
