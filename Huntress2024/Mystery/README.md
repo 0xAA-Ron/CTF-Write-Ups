@@ -1,3 +1,5 @@
+![Enigma Rotory Cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg/640px-Enigma_%28crittografia%29_-_Museo_scienza_e_tecnologia_Milano.jpg)
+
 ![Date](https://img.shields.io/badge/Date-10.01.2024-white?style=plastic) ![Solved](https://img.shields.io/badge/Solved_✔️-darkgreen?style=plastic)
 ![Cryptography](https://img.shields.io/badge/Category-Cryptography_🔐-800080?style=plastic)
 ![Easy](https://img.shields.io/badge/Difficulty-Easy-32CD32?style=plastic)
