@@ -1,3 +1,5 @@
+![Ping Me](https://thumbs.dreamstime.com/b/ping-network-command-test-screen-close-up-153158532.jpg)
+
 ![Date](https://img.shields.io/badge/Date-10.01.2024-white?style=plastic) ![Solved](https://img.shields.io/badge/Solved_✔️-darkgreen?style=plastic)
 ![Cryptography](https://img.shields.io/badge/Category-Cryptography_🔐-800080?style=plastic)
 ![Easy](https://img.shields.io/badge/Difficulty-Easy-32CD32?style=plastic)
