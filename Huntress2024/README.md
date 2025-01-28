@@ -4,7 +4,7 @@
 
 Welcome to my write-ups for the **Huntress CTF 2024**! This Capture The Flag competition was an exciting opportunity to tackle challenges across various cybersecurity domains, including cryptography, steganography, reverse engineering, web exploitation, and more. These write-ups showcase my approach, techniques, and lessons learned while solving the challenges.
 
-###### I wish I completed more but I was in the middle of finals for BS in Cybersecurity. Was still a fun experience and cannot wait for the next one.
+###### I wish I completed more but I was in the middle of finals for BS in Cybersecurity. Was still a fun experience and cannot wait till the next one.
 
 ---
 
