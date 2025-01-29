@@ -5,7 +5,7 @@ Welcome to my repository of Capture The Flag (CTF) Write-Ups. This repository do
 ---
 
 ### 📚 Table of Contents
-| Platform | Challenge Name |
+| Platform | Challenges |
 | - | - |
 | Huntress CTF '24 | [Link](/Huntress2024/README.md) |
 | More | Coming Soon.. |
